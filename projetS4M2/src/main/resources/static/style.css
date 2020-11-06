@@ -1,0 +1,91 @@
+nav {
+    border-bottom: 1px solid black;
+    background: chartreuse;
+}
+
+body {
+    background-image: url("../images/back2.jpg");
+    color: crimson;
+}
+
+.title{
+    font-family: 'Grumpy', Times, serif;
+    font-size: 60px;
+    font-weight: bold;
+    font-palette: light;
+    text-align: center;
+    color: limegreen;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.center-div {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.ribbon{
+    background-image: url("../images/back1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.menu button {
+    box-shadow: 1px 1px 2px white;
+}
+
+table.table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+}
+
+table.table th{
+    border: 1px solid black;
+    padding: 15px;
+    text-align: left;
+    background-color: #9999;
+}
+
+table.table td{
+    border: 1px solid black;
+    padding: 15px;
+    text-align: left;
+    background-color: #9333;
+}
+
+
+footer{
+    border: black;
+    border-width: 4px;
+    background: blueviolet;
+    color: darkslategrey;
+    text-align:center;
+}
+
+.column{
+    vertical-align: top;
+}
+
+.menu{
+    background: darkkhaki;
+}
+
+.content{
+    background-image: url("../images/back3.jpg");
+}
+
+.logger{
+    background: cornsilk;
+    flex: auto;
+}
+
+.sous-titre {
+    color: darkslategrey;
+    font-size: 180%;
+    font-weight: bold;
+    padding: 0 3px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    background: chartreuse;
+}
+
